@@ -1,0 +1,4 @@
+sanic==0.7.0
+Sanic-Cors==0.9.3
+pycryptodome==3.5.1
+
