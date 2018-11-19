@@ -1,3 +1,14 @@
+# Workshop prerequisites
+
+* Although you can work on any platform (Windows, Mac OSX, Linux), a **Debian** based operating system (Ubuntu, Linux Mint, Kali) is preferred
+
+   
+* It would be great if you also setup a latest version of `nodejs` and `npm`. Here is a [install guide](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04) for Ubuntu system.
+
+
+* You can go ahead and complete the Ethereum ecosystem setup if you want to come prepared.
+
+
 # Setup the Ethereum ecosystem
 
 The Ethereum  ecosystem can be setup locally for development purpose or we can connect to a real blockchain.
