@@ -1,3 +1,7 @@
+# Workshop slide
+
+[google drive slides](https://docs.google.com/presentation/d/1WGOnMhJYl62mlR3V2SMC9ul01du2OIu_hNPPxAk6j0g/edit?usp=sharing)
+
 # Workshop prerequisites
 
 * Although you can work on any platform (Windows, Mac OSX, Linux), a **Debian** based operating system (Ubuntu, Linux Mint, Kali) is preferred
