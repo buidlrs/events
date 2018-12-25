@@ -22,6 +22,8 @@ Make sure that you have a latest version of `nodejs` and `npm`. Here is a [insta
 
 ## Install local blockchain (Ganache)
 
+Ganache is not a dependency of the application. So it needs to be installed explictly and globally.
+
 `npm install ganache-cli web3@0.20.2`
 
 
