@@ -58,7 +58,7 @@ We can start the Ethereum development from scratch or use an existing framework 
 ## Truffle framework
 
 Truffle framework makes the development and deployment process smoother by creating a framework for development.
-The the framework will help to easily create and deploy the DApp.
+Truffle framework will help to easily create and deploy the DApp.
 
 ```
 npm install -g truffle
