@@ -1,0 +1,24 @@
+version: '2'
+services:
+    btcd:
+      build:
+        context: ./
+        dockerfile: ./DockerfileBTCD
+      ports:
+          - "18556:18556"
+      container_name: docker_btcd
+
+    lnd:
+      environment:
+          - BTCD_HOST=btcd
+      build:
+        context: ./
+        dockerfile: ./DockerfileLND
+      links:
+        - btcd:btcd
+      container_name: docker_lnd
+
+
+
+
+

@@ -1,0 +1,6 @@
+FROM koshikraj/lndnode:1.1
+
+EXPOSE 18556
+
+CMD ["btcd", "--txindex", "--simnet", "--rpcuser=kek", "--rpcpass=kek"]
+
