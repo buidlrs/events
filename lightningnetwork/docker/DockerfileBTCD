@@ -1,4 +1,4 @@
-FROM koshikraj/lndnode:1.1
+FROM koshikraj/lndnode:1.2
 
 EXPOSE 18556
 
