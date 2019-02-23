@@ -22,6 +22,10 @@ Access the docker node using the following command:
 docker exec -it docker_lnd lncli --rpcserver=localhost:10001 --no-macaroons getinfo
 ```
 
+Run the Bitcoin daemon (incase it doesn't come up on its own)
+
+`btcd --simnet --txindex --rpcuser=kek --rpcpass=kek --miningaddr=rVhqTBVXdvD8AJonZc2bGUfp9n3smfFd1h`
+
 ### LN commands 
 
 #### Wallet commands
